@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		26869DE52A7EE17F0032C792 /* Case1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Case1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		26869DE52A7EE17F0032C792 /* asd.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = asd.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		26869DE82A7EE17F0032C792 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		26869DEA2A7EE17F0032C792 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		26869DEC2A7EE17F0032C792 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		26869DDC2A7EE17F0032C792 = {
 			isa = PBXGroup;
 			children = (
-				26869DE72A7EE17F0032C792 /* Case1 */,
+				26869DE72A7EE17F0032C792 /* SpaceX */,
 				26869DE62A7EE17F0032C792 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,12 +52,12 @@
 		26869DE62A7EE17F0032C792 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				26869DE52A7EE17F0032C792 /* Case1.app */,
+				26869DE52A7EE17F0032C792 /* asd.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		26869DE72A7EE17F0032C792 /* Case1 */ = {
+		26869DE72A7EE17F0032C792 /* SpaceX */ = {
 			isa = PBXGroup;
 			children = (
 				26869DE82A7EE17F0032C792 /* AppDelegate.swift */,
@@ -70,15 +70,15 @@
 				26869DF32A7EE1810032C792 /* LaunchScreen.storyboard */,
 				26869DF62A7EE1810032C792 /* Info.plist */,
 			);
-			path = Case1;
+			path = SpaceX;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		26869DE42A7EE17F0032C792 /* Case1 */ = {
+		26869DE42A7EE17F0032C792 /* asd */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 26869DF92A7EE1810032C792 /* Build configuration list for PBXNativeTarget "Case1" */;
+			buildConfigurationList = 26869DF92A7EE1810032C792 /* Build configuration list for PBXNativeTarget "asd" */;
 			buildPhases = (
 				26869DE12A7EE17F0032C792 /* Sources */,
 				26869DE22A7EE17F0032C792 /* Frameworks */,
@@ -88,9 +88,9 @@
 			);
 			dependencies = (
 			);
-			name = Case1;
+			name = asd;
 			productName = Case1;
-			productReference = 26869DE52A7EE17F0032C792 /* Case1.app */;
+			productReference = 26869DE52A7EE17F0032C792 /* asd.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 26869DE02A7EE17F0032C792 /* Build configuration list for PBXProject "Case1" */;
+			buildConfigurationList = 26869DE02A7EE17F0032C792 /* Build configuration list for PBXProject "asdsadf" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -121,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				26869DE42A7EE17F0032C792 /* Case1 */,
+				26869DE42A7EE17F0032C792 /* asd */,
 			);
 		};
 /* End PBXProject section */
@@ -297,7 +297,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 4CH4G5V8V3;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Case1/Info.plist;
+				INFOPLIST_FILE = SpaceX/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -325,7 +325,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 4CH4G5V8V3;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Case1/Info.plist;
+				INFOPLIST_FILE = SpaceX/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -347,7 +347,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		26869DE02A7EE17F0032C792 /* Build configuration list for PBXProject "Case1" */ = {
+		26869DE02A7EE17F0032C792 /* Build configuration list for PBXProject "asdsadf" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				26869DF72A7EE1810032C792 /* Debug */,
@@ -356,7 +356,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		26869DF92A7EE1810032C792 /* Build configuration list for PBXNativeTarget "Case1" */ = {
+		26869DF92A7EE1810032C792 /* Build configuration list for PBXNativeTarget "asd" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				26869DFA2A7EE1810032C792 /* Debug */,

@@ -1,6 +1,6 @@
 //
 //  Model.swift
-//  Case1
+//  SpaceX
 //
 //  Created by Damla KS on 5.08.2023.
 //
